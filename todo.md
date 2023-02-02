@@ -1,0 +1,4 @@
+- Bootstrap is used with React to make the frontend responsive to all the devices.
+- Function Based components has been used to handle the states.
+- UseEffect, UseState Hooks has been used.
+- Fx Rate changes every 3 seconds.
